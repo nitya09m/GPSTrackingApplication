@@ -11,4 +11,6 @@ Accuracy: Accuracy of the location pointer.
 Address: Address of the location
 Location Updates:  Switch to turn location tracking service on/off. 
 
+You can install Android Studio and then implement the code. 
+
 THIS REPOSITORY WAS CREATED AS A REQUIREMENT OF CIS 542 (FALL 2023) AT UMASS DARTMOUTH.
